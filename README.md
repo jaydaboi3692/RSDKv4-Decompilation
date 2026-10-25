@@ -1,6 +1,6 @@
 ![](header.png?raw=true)
 
-A complete decompilation of Retro Engine v4 and the menus from Sonic 1 and 2 (2013).
+A complete decompilation of Retro Engine v4 and the menus from Sonic 1 and 2 (2013)
 
 # **SUPPORT THE OFFICIAL RELEASE OF SONIC 1 & 2**
 + Without assets from the official releases, this decompilation will not run.
